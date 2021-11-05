@@ -80,6 +80,7 @@ nav{
 
 header p{
   display: flex
+  flex-wrap: nowrap;
   color: rgb(0, 0, 0);
   font-size: 100%;
   padding: 0 100px;
